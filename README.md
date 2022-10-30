@@ -8,6 +8,11 @@
 
 | Project                                                      | Stack       | Description                                                  | Finished   |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ---------- |
+|[**Philosophers**](https://github.com/maximmihin/Philosophers)| C | TEat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger. | 2022-06-26
+| *Circle 2*  |
+|[**push_swap**](https://github.com/maximmihin/push_swap)| C | his project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting. | 2022-03-26
+|[**pipex**](https://github.com/maximmihin/pipex)| C | This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. | 2022-03-26
+|[**so_long**](https://github.com/maximmihin/so_long)| C, mlx | This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles. | 2022-06-17
 | *Circle 1*                                                   |             |                                                              |            |
 | [**get_next_line**](https://github.com/maximmihin/get_next_line) | C           | Function that returns a line, read from a file descriptor.   | 2021-12-23 |
 | [**ft_printf**](https://github.com/maximmihin/ft_printf)     | C, Make     | Recode printf.                                               | 2021-12-24 |
